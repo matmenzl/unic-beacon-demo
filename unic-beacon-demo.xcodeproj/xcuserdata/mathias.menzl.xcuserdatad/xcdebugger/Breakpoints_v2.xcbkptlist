@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unic-beacon-demo/ViewController.swift"
+            timestampString = "439977090.737855"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "colors"
+            landmarkType = "19">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "439908644.566445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "784">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)() -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "439908644.569526"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "439908644.569764"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "740">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unic-beacon-demo/ViewController.swift"
+            timestampString = "440938275.012395"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "441540729.242799"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)() -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "441540729.243044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "441540729.243259"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "unic-beacon-demo/ViewController.swift"
+            timestampString = "441540796.072841"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.LocationManager.getter : ObjectiveC.CLLocationManager"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "441540796.075989"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "441540796.076537"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)() -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "441540796.076767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "unic_beacon_demo.ViewController.init (unic_beacon_demo.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; unic_beacon_demo.ViewController"
+                  moduleName = "unic-beacon-demo"
+                  urlString = "file:///Users/mathias.menzl/Desktop/unic-beacon-demo/unic-beacon-demo/ViewController.swift"
+                  timestampString = "441540796.07701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

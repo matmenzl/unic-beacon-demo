@@ -161,6 +161,11 @@
 				TargetAttributes = {
 					BB385A281A3870C0003A9ABA = {
 						CreatedOnToolsVersion = 6.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					BB385A3D1A3870C0003A9ABA = {
 						CreatedOnToolsVersion = 6.1;
@@ -405,6 +410,7 @@
 				BB385A4A1A3870C0003A9ABA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BB385A4B1A3870C0003A9ABA /* Build configuration list for PBXNativeTarget "unic-beacon-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +419,7 @@
 				BB385A4D1A3870C0003A9ABA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
